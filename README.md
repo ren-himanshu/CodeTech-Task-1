@@ -1,3 +1,11 @@
 # BMI Fitness
+**Name:** Himanshu Rawat<br>
+**Company:** CODTECH IT SOLUTIONS<br>
+**ID:** CT12DS3035<br>
+**Domain:** Machine Learning<br>
+**Duration:** Dec,2024 to Feb, 2025
 
-Click the link to download the apk file: https://drive.google.com/uc?export=download&id=1Zy0LWSt3iniFxmjHF--XuO8rL0apxk_K
+# Overview of the Project
+Develop an app that calculate Body Mass Index(BMI) based on user input for height and weight
+
+
